@@ -20,3 +20,6 @@ Tambien podes instalar cada uno de los programas y librerias siguiendo las instr
 
 Una vez que tengas todo instalado podes clonar este repositorio para comenzar a trabajar. 
 
+### Datasets
+Sueldos percibidos por funcionarios del GCBA (Jefe de Gobierno, Vice Jefe de Gobierno, Jefe de Gabinete de Ministros, Ministros y Secretarios) en [2015](https://data.buenosaires.gob.ar/dataset/sueldo-funcionarios/archivo/juqdkmgo-2034-resource) y [2020](https://data.buenosaires.gob.ar/dataset/sueldo-funcionarios/archivo/cf0db5dd-11c8-43e1-a509-30563b82621d) provistos por la [ciudad de Buenos Aires](https://data.buenosaires.gob.ar/). 
+
