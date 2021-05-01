@@ -1,5 +1,5 @@
-# Workshop de Análisis de datos con Python para principiantes
--- por Victoria Perez Mola
+# Taller de Análisis de datos con Python para principiantes
+Dictado por Victoria Perez Mola
 
 ### Introduccion
 Hoy en día los analistas de datos son una de las profesiones más codiciadas, pero ¿De que se trata realmente su trabajo? ¿Cómo podemos empezar a hacer un análisis?
