@@ -1,5 +1,5 @@
 # Taller de Análisis de datos con Python para principiantes
-Dictado por Victoria Perez Mola para [Ada Women CCM](https://www.instagram.com/adawomenitc/)
+Dictado por Victoria Perez Mola para [Ada Women CCM](https://www.instagram.com/adawomenitc/) (pueden seguir el taller por video desde este [link](https://fb.watch/7pb3Q6N1GP/)) y para Cientificas de datos Bolivia (pueden seguir el taller por video desde este [link](https://fb.watch/7pb8XsOZpa/))
 
 ### Introduccion
 Hoy en día los analistas de datos son una de las profesiones más codiciadas, pero ¿De que se trata realmente su trabajo? ¿Cómo podemos empezar a hacer un análisis?
